@@ -1,4 +1,4 @@
-# 🧠 Virtual Human Interface – BTU Buddy
+# 🧠 Virtual Human 
 
 A real‑time, voice‑driven **Virtual Human** system built for interactive human‑computer communication. The system captures spoken input, transcribes it with Whisper, generates context‑aware responses using OpenAI GPT, converts them to lifelike speech with Coqui TTS, and sends facial blendshape data to Unreal Engine for animated avatar rendering.
 
@@ -133,7 +133,7 @@ OPENAI_API_KEY=your_api_key_here
 
 ## 📸 Demo
 
-> *(Add screenshots or demo video/GIF here)*
+> *(Adding Gif Shortly)*
 
 ---
 
